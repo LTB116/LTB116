@@ -39,5 +39,5 @@ DOMAIN-SUFFIX,servers.xeton.dev
 # > 流媒体佛系Emby服务器
 DOMAIN-SUFFIX,emby2021.kozow.com
 # > 流媒体Misakaf服务器
-DOMAIN-SUFFIX,embygy.misakaf.xyz
-DOMAIN-SUFFIX,embyaz.misakaf.xyz
+DOMAIN-SUFFIX,emby.misakaf.xyz
+DOMAIN-SUFFIX,emby.misakaf.xyz
