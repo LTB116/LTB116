@@ -1,6 +1,7 @@
 
 # > Facebook
 host-suffix,cdninstagram.com,Facebook
+host-suffix,instagram.com,Facebook
 host-suffix,fb.com,Facebook
 host-suffix,fb.me,Facebook
 host-suffix,fbaddins.com,Facebook
