@@ -52,3 +52,20 @@ DOMAIN-SUFFIX,cf.mseic.com
 DOMAIN-SUFFIX,emby.xmss.vip
 # > 流媒体Nebula星云Emby服务器
 DOMAIN-SUFFIX,direct.nebula-emby.com
+# > 流媒体瓜田李下Emby服务器
+DOMAIN-SUFFIX,cf.gtlx.org.com
+# > 流媒体NMEmby服务器
+DOMAIN-SUFFIX,film.goodisp.org
+DOMAIN-SUFFIX,film.chinaisp.org
+# > 流媒体卡卡服（放映厅）服务器
+DOMAIN-SUFFIX,emby.9191001.xyz
+# > 流媒体Infinityfly服务器
+DOMAIN-SUFFIX,infinityfly.top
+# > 流媒体电报服（Emby）服务器
+DOMAIN-SUFFIX,emby.imetyou.top
+# > 流媒体剧狗（Emby）服务器
+DOMAIN-SUFFIX,https://ju.dog/
+# > 流媒体Emby Chat（私人影院）服务器
+DOMAIN-SUFFIX,emby.agon.cf
+# > 流媒体EmbyHub（Emby）服务器
+DOMAIN-SUFFIX,emby.ednovas.org
