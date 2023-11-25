@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,film.chinaisp.org
 DOMAIN-SUFFIX,emby.9191001.xyz
 # > 流媒体Infinityfly服务器
 DOMAIN-SUFFIX,infinityfly.top
+DOMAIN-SUFFIX,nc1.infinityfly.top
 # > 流媒体电报服（Emby）服务器
 DOMAIN-SUFFIX,emby.imetyou.top
 # > 流媒体剧狗（Emby）服务器
