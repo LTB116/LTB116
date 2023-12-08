@@ -70,3 +70,5 @@ DOMAIN-SUFFIX,https://ju.dog/
 DOMAIN-SUFFIX,emby.agon.cf
 # > 流媒体EmbyHub（Emby）服务器
 DOMAIN-SUFFIX,emby.ednovas.org
+# > 流媒体Nyamedia（Emby）服务器
+DOMAIN-SUFFIX,emby.bangumi.ca
