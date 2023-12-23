@@ -72,3 +72,5 @@ DOMAIN-SUFFIX,emby.agon.cf
 DOMAIN-SUFFIX,emby.ednovas.org
 # > 流媒体Nyamedia（Emby）服务器
 DOMAIN-SUFFIX,emby.bangumi.ca
+# > 流媒体Polo（儿童服）（Emby）服务器
+DOMAIN-SUFFIX,free.poloemby.xyz
