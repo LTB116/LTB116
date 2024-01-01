@@ -82,3 +82,5 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,789.123456.al
 # > 流媒体野兽制（Emby）服务器
 DOMAIN-SUFFIX,emby.mius.uk
+# > 流媒体Peach公益服（Emby）服务器
+DOMAIN-SUFFIX,embymv.tk
