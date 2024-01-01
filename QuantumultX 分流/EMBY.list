@@ -74,3 +74,11 @@ DOMAIN-SUFFIX,emby.ednovas.org
 DOMAIN-SUFFIX,emby.bangumi.ca
 # > 流媒体Polo（儿童服）（Emby）服务器
 DOMAIN-SUFFIX,free.poloemby.xyz
+# > 流媒体星光(尘烬)（Emby）服务器
+DOMAIN-SUFFIX,free.emby.eu.org
+# > 流媒体纸片人小站（动漫服）（Emby）服务器
+DOMAIN-SUFFIX,embyplus.org
+# > 流媒体TreeDiagram（Emby）服务器
+DOMAIN-SUFFIX,789.123456.al
+# > 流媒体野兽制（Emby）服务器
+DOMAIN-SUFFIX,emby.mius.uk
