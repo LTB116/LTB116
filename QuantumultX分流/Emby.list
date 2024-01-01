@@ -84,3 +84,5 @@ DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,emby.mius.uk
 # > 流媒体Peach公益服（Emby）服务器
 DOMAIN-SUFFIX,embymv.tk
+# > 流媒体Nyamedia（Emby）服务器
+DOMAIN-SUFFIX,emby.bangumi.ca
