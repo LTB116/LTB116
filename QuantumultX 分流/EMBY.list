@@ -86,3 +86,5 @@ DOMAIN-SUFFIX,emby.mius.uk
 DOMAIN-SUFFIX,embymv.tk
 # > 流媒体Nyamedia（Emby）服务器
 DOMAIN-SUFFIX,emby.bangumi.ca
+# > 流媒体StarCat - Flare（Emby）服务器
+DOMAIN-SUFFIX,flarex.starcat.eu.org
