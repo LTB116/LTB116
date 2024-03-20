@@ -88,3 +88,5 @@ DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,emby.bangumi.ca
 # > 流媒体StarCat - Flare（Emby）服务器
 DOMAIN-SUFFIX,flarex.starcat.eu.org
+# > 流媒体Lyrebird（Emby）服务器
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
