@@ -90,3 +90,5 @@ DOMAIN-SUFFIX,emby.bangumi.ca
 DOMAIN-SUFFIX,flarex.starcat.eu.org
 # > 流媒体Lyrebird（Emby）服务器
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
+# > 流媒体江湖（Emby）服务器
+DOMAIN-SUFFIX,film.reddust.link
